@@ -1,21 +1,22 @@
 <!-- ========================================================= -->
-<!--                 🚀 PRASHANT KUMAR README                  -->
-<!--                PART 1 - HERO SECTION                      -->
+<!--           🚀 PRASHANT KUMAR | AI GALAXY README            -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,25:7F5AF0,50:4F46E5,75:3B82F6,100:00C2FF&text=PRASHANT%20KUMAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Problem%20Solver%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,20:7F5AF0,40:6A5ACD,60:4F46E5,80:3B82F6,100:00C2FF&text=PRASHANT%20KUMAR&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Problem%20Solver%20•%20Full%20Stack%20Developer%20•%20ML%20Enthusiast&descAlignY=58"/>
 
 </div>
 
 <h1 align="center">
-Hi there 👋 I'm Prashant Kumar
+
+Hi 👋 I'm Prashant Kumar
+
 </h1>
 
 <h3 align="center">
 
-💜 AI Enthusiast • 🚀 Full Stack Developer • 🌌 Future ML Engineer • ☕ Coffee + Code = Happiness
+🚀 Full Stack Developer • 🤖 AI Enthusiast • 💜 Building Tomorrow with Code
 
 </h3>
 
@@ -23,7 +24,7 @@ Hi there 👋 I'm Prashant Kumar
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Problem+Solver;Full+Stack+Developer;Machine+Learning+Enthusiast;Artificial+Intelligence+Explorer;Building+Projects+That+Matter;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=27&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Problem+Solver;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Cloud+Computing+Learner;Building+Real+World+Projects;Always+Learning+Something+New+🚀"/>
 
 </div>
 
@@ -31,7 +32,7 @@ Hi there 👋 I'm Prashant Kumar
 
 <div align="center">
 
-<img src="https://github.com/KumarrPrashant.png" width="220" style="border-radius:50%;" />
+<img src="https://github.com/KumarrPrashant.png" width="220"/>
 
 </div>
 
@@ -39,115 +40,102 @@ Hi there 👋 I'm Prashant Kumar
 
 # 🌌 About Me
 
-```yaml
-Name: Prashant Kumar
+<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-Location: Delhi, India
+```yaml
+Name:
+  Prashant Kumar
 
 Education:
+  🎓 B.Tech Computer Science
+  ABES Institute of Technology
 
-🎓 B.Tech Computer Science
-ABES Institute of Technology
-Graduation: 2027
-
-🎓 Data Science
-Indian Institute of Technology Guwahati
+  🎓 Data Science
+  IIT Guwahati
 
 Role:
-Student
-Full Stack Developer
-ML Enthusiast
+  Student
+  Full Stack Developer
+  AI & ML Enthusiast
 
-Current Focus:
+Location:
+  Delhi 🇮🇳
 
-✔ Artificial Intelligence
+Learning:
+  Machine Learning
+  Cloud Computing
+  Data Structures & Algorithms
 
-✔ Machine Learning
+Currently:
+  Building Real World Projects
 
-✔ Cloud Computing
-
-✔ Data Structures & Algorithms
-
-✔ Building Real World Products
+Goal:
+  Build Products Used By Millions
 ```
 
 ---
 
-# 🚀 Quick Introduction
+# 🚀 What I'm Doing
 
-- 💻 Full Stack Web Developer
+✔ Building Full Stack Applications
 
-- 🤖 Passionate about Artificial Intelligence
+✔ Exploring Artificial Intelligence
 
-- 📚 Learning DSA + ML + Cloud
+✔ Learning Advanced Machine Learning
 
-- 🌱 Love exploring new technologies
+✔ Practicing DSA Daily
 
-- 🔥 Building impactful software
+✔ Improving Cloud Skills
 
-- 💬 Ask me about
+✔ Creating Scalable Products
 
-  - Java
-
-  - Python
-
-  - AI
-
-  - React
-
-  - Node.js
-
-  - Machine Learning
-
-- ⚡ Fun Fact
-
-I built my first website in **2023** and haven't stopped creating since.
+✔ Contributing to Open Source
 
 ---
 
-# 🏆 Achievement Badges
+# 🏆 Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/3%2B-Years%20Coding-7F5AF0?style=for-the-badge"/>
+![](https://img.shields.io/badge/🚀-10%2B_Projects-blueviolet?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/10%2B-Projects-00C2FF?style=for-the-badge"/>
+![](https://img.shields.io/badge/💻-3%2B_Years_Coding-blue?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/15%2B-Certifications-7F5AF0?style=for-the-badge"/>
+![](https://img.shields.io/badge/📜-15%2B_Certifications-purple?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge"/>
+![](https://img.shields.io/badge/🤖-AI_Builder-7F5AF0?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/AI-Builder-purple?style=for-the-badge"/>
+![](https://img.shields.io/badge/🌟-Open_Source-Lover-blue?style=for-the-badge)
 
-</p>
+</div>
 
 ---
 
-# 🌍 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/KumarrPrashant">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/prashant-kumar-8937422b7/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://www.instagram.com/theprashant1.4">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
 </a>
 
 <a href="mailto:INFOPRASHANTKUMARR@GMAIL.COM">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
-</p>
+</div>
 
 ---
 
-# 👀 Visitor Count
+# 👀 Visitors
 
 <div align="center">
 
@@ -157,13 +145,35 @@ I built my first website in **2023** and haven't stopped creating since.
 
 ---
 
-# 📊 GitHub Statistics
+# ⚡ Quote
+
+> **"The best way to predict the future is to build it."**
+
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumarrPrashant&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 💜 Thanks for Visiting 💜
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarrPrashant&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,100:00C2FF"/>
+
+ <!-- ======================================================== -->
+<!--               ⚡ PART 2 - STATS & TECH STACK             -->
+<!-- ======================================================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/KumarrPrashant">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KumarrPrashant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarrPrashant&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
+</a>
 
 </div>
 
@@ -179,11 +189,11 @@ I built my first website in **2023** and haven't stopped creating since.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KumarrPrashant&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KumarrPrashant&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -199,75 +209,45 @@ I built my first website in **2023** and haven't stopped creating since.
 
 ---
 
-# 💡 Random Dev Quote
+# 🚀 Tech Stack
+
+## 💻 Programming Languages
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 🎯 Current Mission
-
-> 🚀 Building impactful AI-powered applications that solve real-world problems while mastering Full Stack Development, Machine Learning, Cloud Computing, and scalable software engineering.
-
----
-
-# ⭐ Developer Philosophy
-
-> **"Code is not just about solving problems—it's about creating experiences that make people's lives better."**
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile 💜
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:7F5AF0,100:00C2FF"/>
-
-<!-- ========================================================= -->
-<!--            PART 2 - SKILLS • PROJECTS • ROADMAP          -->
-<!-- ========================================================= -->
-
-# 🚀 Tech Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<p>
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,mysql"/>
 
-</p>
+</div>
 
-### ⚛️ Frontend Development
+---
 
-<p>
+## ⚛️ Frontend Development
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,javascript"/>
 
-</p>
+</div>
 
-### ⚙️ Backend Development
+---
 
-<p>
+## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres"/>
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres"/>
 
-### 🤖 Artificial Intelligence & Machine Learning
+</div>
 
-<p>
+---
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+## 🤖 Artificial Intelligence & Machine Learning
 
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
@@ -277,124 +257,102 @@ I built my first website in **2023** and haven't stopped creating since.
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-### ☁️ Cloud & Deployment
+</div>
 
-<p>
+---
 
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,git,github,vscode"/>
+## ☁️ Cloud & Deployment
 
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify"/>
 
 </div>
 
 ---
 
-# 🧠 What I'm Currently Learning
+## 🛠️ Developer Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| 📚 Technology | 📈 Progress |
+|---------------|------------:|
+| Data Structures & Algorithms | ████████░░ 80% |
+| Machine Learning | ███████░░░ 70% |
+| Cloud Computing (AWS) | ██████░░░░ 60% |
+| System Design | ████░░░░░░ 40% |
+| Deep Learning | █████░░░░░ 50% |
+
+</div>
+
+---
+
+# 🎯 2026 Focus
 
 ```text
-📚 Data Structures & Algorithms
+🚀 Build impactful Full Stack Applications
 
-🤖 Machine Learning
+🤖 Master Machine Learning
 
-☁️ Cloud Computing (AWS)
+☁️ Become proficient in AWS Cloud
 
-⚛️ Advanced React
+📚 Solve 500+ DSA Problems
 
-🚀 Scalable Backend Systems
+💡 Build AI-powered SaaS Products
 
-🧩 System Design
+🌍 Contribute to Open Source
 
-💡 AI-powered Applications
+🏆 Prepare for top Product-Based Companies
+
+🧠 Strengthen Problem Solving Skills
 ```
 
 ---
 
-# 📌 Featured Projects
+# 💡 Developer Philosophy
 
-## 🏠 Campus Crib
+<div align="center">
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+> **"Code with purpose. Learn continuously. Build products that create real impact."**
 
-### 🎯 Student Accommodation Platform
-
-A modern platform helping students discover verified accommodations near their colleges with ease.
-
-### ✨ Features
-
-- Verified Listings
-- Smart Search
-- Responsive UI
-- Affordable Housing
-- Student Friendly
-
-### 🌐 Live Demo
-
-https://mini-p.vercel.app/
+</div>
 
 ---
 
-## 🏛️ Prayas
+# ⚡ Fun Facts
 
-<img align="right" width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+- 💻 Built my first website in **2023**
+- ⌨️ Average typing speed: **50 WPM**
+- 🤖 I enjoy explaining Machine Learning in simple terms—even to beginners.
+- 🚀 Passionate about turning ideas into real-world products.
+- 🌌 I love exploring new technologies and challenging myself with every project.
 
-### Government Issue Resolution Platform
+- <!-- ======================================================== -->
+<!--          🚀 PART 3 - FEATURED PROJECTS & JOURNEY         -->
+<!-- ======================================================== -->
 
-Prayas bridges the communication gap between citizens and government authorities.
+# 🚀 Featured Projects
 
-### Features
+<div align="center">
 
-✔ Complaint Registration
+| Project | Description | Tech Stack | Live Demo |
+|:-------:|:------------|:----------:|:---------:|
+| 🏠 **Campus Crib** | A platform that helps students discover verified accommodations near their college with safety, affordability, and ease. | React • Node.js • MongoDB | <a href="https://mini-p.vercel.app/" target="_blank">🌐 Visit</a> |
+| 🏛️ **Prayas** | Government issue reporting and resolution platform connecting citizens with authorities through a transparent dashboard. | React • Firebase • Node.js | <a href="https://v0-jan-connect-dashboard.vercel.app/" target="_blank">🌐 Visit</a> |
+| 🤖 **AI Resume Analyzer** | AI-powered resume evaluator that analyzes resumes, gives ATS scores, improvement suggestions, and personalized feedback. | Python • Streamlit • Machine Learning | <a href="https://53dsiuqwdp3utgeqws3vkn.streamlit.app/" target="_blank">🌐 Visit</a> |
+| ✍️ **Text To Handwriting** | Convert plain digital text into realistic handwritten pages for assignments, notes, and personalized documents. | Python • HTML • CSS | <a href="https://textohandwritingconversion.netlify.app/" target="_blank">🌐 Visit</a> |
 
-✔ Issue Tracking
-
-✔ Admin Dashboard
-
-✔ Transparency
-
-✔ Faster Resolution
-
-🌐
-
-https://v0-jan-connect-dashboard.vercel.app/
-
----
-
-## 🤖 AI Resume Analyzer
-
-<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-
-### AI Powered Resume Evaluation
-
-Upload your resume and receive
-
-- Resume Score
-- ATS Analysis
-- Suggestions
-- Missing Skills
-- Improvement Tips
-
-🌐
-
-https://53dsiuqwdp3utgeqws3vkn.streamlit.app/
-
----
-
-## ✍️ Text To Handwriting
-
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-Convert digital text into realistic handwritten notes.
-
-Perfect for
-
-- Assignments
-- Notes
-- Cards
-- Handwritten Documents
-
-🌐
-
-https://textohandwritingconversion.netlify.app/
+</div>
 
 ---
 
@@ -402,205 +360,145 @@ https://textohandwritingconversion.netlify.app/
 
 ```text
 🎓 ABES Institute of Technology
+Bachelor of Technology (Computer Science Engineering)
+2023 – 2027
 
-Bachelor of Technology
-
-Computer Science Engineering
-
-2023 — 2027
-
------------------------------
+──────────────────────────────────────────────
 
 🎓 IIT Guwahati
-
 Data Science
-
-Artificial Intelligence
-
-Machine Learning
+Artificial Intelligence & Machine Learning
 ```
 
 ---
 
-# 🌱 My Coding Journey
+# 💼 My Coding Journey
 
 ```text
-2023
-
-✅ Started Web Development
-
-↓
-
-Learned HTML
-
-↓
-
-CSS
-
-↓
-
+2023 🚀 Started Web Development
+        │
+        ▼
+Learned HTML & CSS
+        │
+        ▼
 JavaScript
-
-↓
-
-React
-
-↓
-
-Node.js
-
-↓
-
-MongoDB
-
-↓
-
-Python
-
-↓
-
+        │
+        ▼
+React.js
+        │
+        ▼
+Node.js & Express
+        │
+        ▼
+MongoDB & SQL
+        │
+        ▼
+Python Programming
+        │
+        ▼
 Machine Learning
-
-↓
-
-Building AI Applications
-
-↓
-
+        │
+        ▼
 Cloud Computing
-
-↓
-
-Future Full Stack AI Engineer 🚀
+        │
+        ▼
+Building AI Products 🚀
 ```
 
 ---
 
-# 🚀 Future Goals
+# 🎯 Career Vision
 
-✅ Become an AI Engineer
+### 🚀 Short-Term Goals
 
-✅ Build a successful AI Startup
-
-✅ Master System Design
-
-✅ Become a Cloud Architect
-
-✅ Contribute to Open Source
-
-✅ Publish Research in AI
-
-✅ Build Products Used by Millions
-
-✅ Crack Top Product-Based Companies
-
-✅ Create My Own AI Models
-
-✅ Inspire Future Developers
+- 📚 Master Data Structures & Algorithms
+- 🤖 Build Production-Level AI Applications
+- ☁️ Become AWS Cloud Certified
+- 💻 Create High-Performance Full Stack Products
+- 🌍 Contribute to Open Source
 
 ---
 
-# 📅 2026 Roadmap
+### 🌌 Long-Term Goals
+
+- 🏢 Build an AI Startup
+- 🤖 Create My Own AI Models
+- 🌍 Develop Products Used by Millions
+- 💡 Solve Real-World Problems Through Technology
+- 🎤 Inspire Future Developers Through Content & Projects
+
+---
+
+# 📚 Currently Exploring
+
+<div align="center">
+
+| Domain | Focus |
+|--------|-------|
+| 🤖 Artificial Intelligence | Advanced ML & LLM Concepts |
+| ☁️ Cloud Computing | AWS & Scalable Deployments |
+| 🧠 Machine Learning | Model Building & Optimization |
+| 💻 Full Stack | Production-Ready Applications |
+| ⚡ DSA | Interview Preparation & Problem Solving |
+
+</div>
+
+---
+
+# 📈 2026 Learning Roadmap
 
 ```text
-███████████░░░ Learn Advanced DSA
+███████████░░ Data Structures
 
-█████████░░░░ AWS Cloud
+█████████░░░ Machine Learning
 
-█████████░░░░ Machine Learning
+████████░░░░ Deep Learning
 
-████████░░░░░ Deep Learning
+████████░░░░ AWS Cloud
 
-███████░░░░░░ Open Source
+███████░░░░░ Open Source
 
-██████████░░░ Full Stack Projects
+██████████░░ Full Stack Engineering
 
-███████████░░ AI Applications
+███████████░ AI Product Development
 ```
 
 ---
 
 # ⚡ Fun Facts
 
-🌌 I built my first website in **2023**
-
-⚡ I type around **50 WPM**
-
-🤖 I can explain Machine Learning to a 10-year-old.
-
-☕ I enjoy turning ideas into real products.
-
-🚀 I believe consistency beats motivation.
-
-💡 Every project teaches something new.
+- 🚀 Built my **first website in 2023**
+- ⌨️ Average typing speed: **50 WPM**
+- 🤖 I enjoy explaining Machine Learning in simple words—even to a 10-year-old.
+- 💡 I love transforming ideas into real software products.
+- 🌌 Every project I build teaches me something new.
 
 ---
 
-# 💻 Coding Time
+# 💻 Coding in Action
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="550"/>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="650"/>
 
 </div>
 
 ---
 
-# 🧩 Developer Mindset
-
-> "Don't just build apps. Build products that solve real-world problems."
-
----
-
-# 🌟 Daily Routine
-
-```text
-☀️ Learn
-
-↓
-
-💻 Code
-
-↓
-
-🚀 Build
-
-↓
-
-🐞 Debug
-
-↓
-
-📚 Improve
-
-↓
-
-😴 Sleep
-
-↓
-
-Repeat
-```
-
----
-
-# 🎯 My Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Cloud Computing
-- SaaS Products
-- Startup Building
-- UI/UX Design
-- Problem Solving
-- Open Source
-- Product Engineering
-
----
+# 💬 Favorite Quote
 
 <div align="center">
 
-## ⭐ "Stay Curious. Stay Consistent. Keep Building."
+> **"Dream Big. Start Small. Build Consistently."**
 
 </div>
+
+---
+
+# 🌟 Beyond Coding
+
+- 🚀 Exploring innovative startup ideas
+- 📖 Learning emerging technologies
+- 🧩 Solving challenging programming problems
+- 🌍 Building software that creates real impact
+- 🎨 Interested in premium UI/UX design
