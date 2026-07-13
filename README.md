@@ -210,6 +210,16 @@ DevOps Basics
 
 <div align="center">
 
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KumarrPrashant/KumarrPrashant/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
 # 🧠 CURRENT FOCUS
 
 </div>
@@ -442,15 +452,6 @@ Convert text into realistic handwritten notes.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarrPrashant&theme=tokyonight"/>
 
-</p>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/KumarrPrashant/KumarrPrashant/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 
 <h2 align="center">💡 Developer Wisdom</h2>
