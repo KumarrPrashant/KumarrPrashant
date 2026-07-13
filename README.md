@@ -21,9 +21,6 @@
 </div>
 
 ---
-<!-- ========================================================= -->
-<!--              🌌 ABOUT ME • WHO AM I ?                     -->
-<!-- ========================================================= -->
 
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=🌌+Who+Am+I+%3F;Building+Tomorrow+With+Code;AI+%7C+Full+Stack+%7C+Innovation"/>
@@ -112,9 +109,6 @@ Every line of code I write is driven by curiosity, creativity, and a passion for
 
 </div>
 
-
----
-
 <h2 align="center">
 
 🚀 CURRENTLY BUILDING
@@ -142,9 +136,7 @@ Every line of code I write is driven by curiosity, creativity, and a passion for
 </div>
 
 <table>
-
 <tr>
-
 <td align="center">
 
 <img width="70" src="https://img.icons8.com/color/96/artificial-intelligence.png"/>
@@ -190,9 +182,7 @@ Scalability
 DevOps Basics
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -203,13 +193,13 @@ DevOps Basics
 
 </div>
 
-> 💡 **I believe technology becomes meaningful when it solves real problems.**  
+> 💡 **I believe technology becomes meaningful when it solves real problems.**
 > Every project I build is an opportunity to learn something new, challenge myself, and create software that people genuinely enjoy using.
 
 ---
 
 <div align="center">
-  
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -223,9 +213,7 @@ DevOps Basics
 </div>
 
 <table>
-
 <tr>
-
 <td align="center">
 
 ### 🤖 AI
@@ -257,9 +245,7 @@ Real-world software
 Interview preparation
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -313,9 +299,7 @@ Interview preparation
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
-
 <tr>
-
 <td width="50%">
 
 ### 🏠 Campus Crib
@@ -365,11 +349,9 @@ Interview preparation
 </p>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%">
 
 ### 🤖 AI Resume Analyzer
@@ -411,10 +393,8 @@ Convert text into realistic handwritten notes.
 </p>
 
 </td>
-
 </tr>
-
-</table> 
+</table>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -426,7 +406,7 @@ Convert text into realistic handwritten notes.
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarrPrashant&layout=compact&theme=tokyonight&hide_border=true"/>
-</p> 
+</p>
 
 <h2 align="center">📈 Contribution Activity</h2>
 
@@ -450,7 +430,7 @@ Convert text into realistic handwritten notes.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarrPrashant&theme=tokyonight"/>
 
-
+</p>
 
 <h2 align="center">💡 Developer Wisdom</h2>
 
@@ -492,10 +472,6 @@ Convert text into realistic handwritten notes.
 
 </div>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <div align="center">
 
 ### ⭐ If you like my work, consider giving a ⭐ to my repositories.
@@ -503,6 +479,3 @@ Convert text into realistic handwritten notes.
 **Thanks for stopping by! Happy Coding! 🚀💜**
 
 </div>
-
-
-
