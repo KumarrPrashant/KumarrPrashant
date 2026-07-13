@@ -96,6 +96,68 @@ Every line of code I write is driven by curiosity, creativity, and a passion for
 
 ---
 
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarrPrashant&theme=tokyonight"/>
+  
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KumarrPrashant/KumarrPrashant/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+
+<h2 align="center">💡 Developer Wisdom</h2>
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+<!-- ===================================================== -->
+<!--                💜 THANK YOU SECTION                   -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=✨+Thank+You+for+Visiting!;💜+Hope+You+Enjoyed+My+Profile;🚀+Let's+Build+Something+Amazing+Together!"/>
+
+<br><br>
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="500"/>
+
+<br><br>
+
+### 🌌 *"Every great product starts with a simple idea and the courage to build it."*
+
+<br>
+
+<a href="https://github.com/KumarrPrashant">
+<img src="https://img.shields.io/badge/⭐_Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prashant-kumar-8937422b7/">
+<img src="https://img.shields.io/badge/💼_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=See%20You%20Again!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&color=gradient"/>
+
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<div align="center">
+
+
 <div align="center">
 
 ### ⭐ Core Strengths
