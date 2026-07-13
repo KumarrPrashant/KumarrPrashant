@@ -21,18 +21,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=KumarrPrashant&style=for-the-badge&color=blueviolet)
-
-![](https://img.shields.io/github/followers/KumarrPrashant?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/KumarrPrashant?style=for-the-badge)
-
-</div>
-
----
 <!-- ========================================================= -->
 <!--              🌌 ABOUT ME • WHO AM I ?                     -->
 <!-- ========================================================= -->
@@ -289,3 +277,28 @@ Interview preparation
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 
 </div>
+
+## 🌐 Connect
+
+-   GitHub: https://github.com/KumarrPrashant
+-   LinkedIn: https://www.linkedin.com/in/prashant-kumar-8937422b7/
+-   Instagram: https://www.instagram.com/theprashant1.4
+
+## 🚀 Featured Projects
+
+-   Campus Crib --- https://mini-p.vercel.app/
+-   Prayas --- https://v0-jan-connect-dashboard.vercel.app/
+-   AI Resume Analyzer --- https://53dsiuqwdp3utgeqws3vkn.streamlit.app/
+-   Text to Handwriting ---
+    https://textohandwritingconversion.netlify.app/
+
+## 📊 GitHub Widgets
+
+Use: - github-readme-stats - streak-stats - github-profile-trophy -
+github-readme-activity-graph - readme-typing-svg - komarev visitor
+badge - snake contribution action
+
+This file is a placeholder because the complete premium README discussed
+in chat exceeds the maximum response size. It can be expanded section by
+section.
+
