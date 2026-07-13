@@ -278,27 +278,232 @@ Interview preparation
 
 </div>
 
-## 🌐 Connect
+<h2 align="center">🌐 Let's Connect & Collaborate</h2>
 
--   GitHub: https://github.com/KumarrPrashant
--   LinkedIn: https://www.linkedin.com/in/prashant-kumar-8937422b7/
--   Instagram: https://www.instagram.com/theprashant1.4
+<p align="center">
+<a href="https://github.com/KumarrPrashant">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🚀 Featured Projects
+<a href="https://www.linkedin.com/in/prashant-kumar-8937422b7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
--   Campus Crib --- https://mini-p.vercel.app/
--   Prayas --- https://v0-jan-connect-dashboard.vercel.app/
--   AI Resume Analyzer --- https://53dsiuqwdp3utgeqws3vkn.streamlit.app/
--   Text to Handwriting ---
-    https://textohandwritingconversion.netlify.app/
+<a href="https://www.instagram.com/theprashant1.4">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## 📊 GitHub Widgets
+<a href="mailto:infoprashantkumarr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
-Use: - github-readme-stats - streak-stats - github-profile-trophy -
-github-readme-activity-graph - readme-typing-svg - komarev visitor
-badge - snake contribution action
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Let's+Build+Something+Amazing!;Always+Open+for+Collaboration.;Turning+Ideas+Into+Reality+🚀"/>
+</p>
 
-This file is a placeholder because the complete premium README discussed
-in chat exceeds the maximum response size. It can be expanded section by
-section.
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🏠 Campus Crib
+
+🏡 **Student Accommodation Platform**
+
+✨ Features
+
+- 🔍 Smart Search
+- 🏠 Verified Listings
+- 📍 Nearby Colleges
+- 📱 Responsive UI
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB`
+
+<p align="center">
+<a href="https://mini-p.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-7F5AF0?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 🏛️ Prayas
+
+🌍 **Government Issue Resolution Platform**
+
+✨ Features
+
+- 📢 Issue Reporting
+- 📊 Admin Dashboard
+- 📌 Status Tracking
+- 🔔 Notifications
+
+**Tech Stack**
+
+`React` `Firebase`
+
+<p align="center">
+<a href="https://v0-jan-connect-dashboard.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-7F5AF0?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Resume Analyzer
+
+✨ AI Powered Resume Evaluation
+
+- ATS Score
+- AI Suggestions
+- Resume Feedback
+- Smart Analysis
+
+`Python` `Streamlit`
+
+<p align="center">
+<a href="https://53dsiuqwdp3utgeqws3vkn.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-7F5AF0?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### ✍️ Text To Handwriting
+
+Convert text into realistic handwritten notes.
+
+- 📄 Notes
+- 📚 Assignments
+- ❤️ Cards
+- 📝 Documents
+
+`Python`
+
+<p align="center">
+<a href="https://textohandwritingconversion.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-7F5AF0?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table> 
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KumarrPrashant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=KumarrPrashant&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarrPrashant&layout=compact&theme=tokyonight&hide_border=true"/>
+</p> 
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarrPrashant&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KumarrPrashant&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarrPrashant&theme=tokyonight"/>
+
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KumarrPrashant/KumarrPrashant/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+<h2 align="center">💡 Developer Wisdom</h2>
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+<!-- ===================================================== -->
+<!--                💜 THANK YOU SECTION                   -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=✨+Thank+You+for+Visiting!;💜+Hope+You+Enjoyed+My+Profile;🚀+Let's+Build+Something+Amazing+Together!"/>
+
+<br><br>
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="500"/>
+
+<br><br>
+
+### 🌌 *"Every great product starts with a simple idea and the courage to build it."*
+
+<br>
+
+<a href="https://github.com/KumarrPrashant">
+<img src="https://img.shields.io/badge/⭐_Follow_Me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prashant-kumar-8937422b7/">
+<img src="https://img.shields.io/badge/💼_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=See%20You%20Again!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&color=gradient"/>
+
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+**Thanks for stopping by! Happy Coding! 🚀💜**
+
+</div>
+
+
 
