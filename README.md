@@ -96,13 +96,6 @@ Every line of code I write is driven by curiosity, creativity, and a passion for
 
 ---
 
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=✨+Thank+You+for+Visiting!;💜+Hope+You+Enjoyed+My+Profile;🚀+Let's+Build+Something+Amazing+Together!"/>
-
-<br><br>
-
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="500"/>
 
 <br><br>
