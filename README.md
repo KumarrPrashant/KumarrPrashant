@@ -97,32 +97,6 @@ Every line of code I write is driven by curiosity, creativity, and a passion for
 ---
 
 
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarrPrashant&theme=tokyonight"/>
-  
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/KumarrPrashant/KumarrPrashant/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-
-
-<h2 align="center">💡 Developer Wisdom</h2>
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
-<!-- ===================================================== -->
-<!--                💜 THANK YOU SECTION                   -->
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=✨+Thank+You+for+Visiting!;💜+Hope+You+Enjoyed+My+Profile;🚀+Let's+Build+Something+Amazing+Together!"/>
