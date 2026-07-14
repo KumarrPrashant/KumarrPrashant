@@ -4,7 +4,7 @@
 
 </div>  
 
-<h1 align="center">
+<h1 align="center">     
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=900&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Prashant+Kumar;🚀+Full+Stack+Developer;🤖+Artificial+Intelligence+Explorer;🧠+Machine+Learning+Enthusiast;☁️+Future+Cloud+Engineer;💜+Building+Technology+That+Matters"/>
 
