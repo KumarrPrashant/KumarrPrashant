@@ -71,11 +71,11 @@ real-world problems using AI.
 
 </td>
 </tr>
-</table>
+</table> 
 
 </div>
 
-# 🌌 Welcome to My Universe
+# 🌌 Welcome to My Universe .
 
 > **"I don't just write code. I build intelligent products that solve real-world problems."**
 
