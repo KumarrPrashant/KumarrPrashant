@@ -312,15 +312,7 @@ Interview preparation
 
 </div>
 
-| ⚡ | Fun |
-|---|-----|
-| ⌨️ | Type at **50 WPM** |
-| 🚀 | Built my **first website in 2023** |
-| 🤖 | Can explain **Machine Learning to a 10-year-old** |
-| 💡 | Love turning ideas into real products |
-| 🌌 | Dreaming of building my own AI Startup |
 
----
 
 <div align="center">
 
