@@ -136,9 +136,6 @@ Every line of code I write is driven by curiosity, creativity, and a passion for
 
                                                                      
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=See%20You%20Again!%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&color=gradient"/>
-
 </div>
 
 <p align="center">
