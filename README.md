@@ -547,7 +547,6 @@ Convert text into realistic handwritten notes.
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <div align="center">
