@@ -4,12 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&text=PRASHANT%20KUMAR&fontSize=62&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20AI%20Explorer%20•%20Machine%20Learning%20Enthusiast&descAlignY=58&color=gradient"/>
 
 
-</div>  
+</div> 
 
-
-
-   
-     
 <h1 align="center">      
 
          
