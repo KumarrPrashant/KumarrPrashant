@@ -495,7 +495,6 @@ Convert text into realistic handwritten notes.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KumarrPrashant&theme=tokyonight"/>
   
-<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
 
