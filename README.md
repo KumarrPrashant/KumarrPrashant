@@ -77,6 +77,7 @@ real-world problems using AI.
 
 ![](https://img.shields.io/badge/FullStack-Engineer-blue?style=for-the-badge)
 
+
 </td>
 </tr>
 </table> 
